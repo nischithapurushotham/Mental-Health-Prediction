@@ -1,0 +1,1 @@
+This project focuses on Mental Health Prediction using Supervised Machine Learning techniques. The study analyzes behavioral and lifestyle-related attributes to predict mental health conditions using multiple machine learning algorithms.
